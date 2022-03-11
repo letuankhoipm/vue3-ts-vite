@@ -1,0 +1,15 @@
+/*
+* @Description: Main Scss Settings
+* @Author: khoi.lt
+* @LastEditors: khoi.lt
+*/
+
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+@import "./button";
+@import "./form";
+@import "./input";
+@import "./utils";
+@import "./variables";

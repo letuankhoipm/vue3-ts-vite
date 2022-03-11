@@ -1,0 +1,29 @@
+/*
+* @Description: Variables Settings
+* @Author: khoi.lt
+* @LastEditors: khoi.lt
+*/
+
+$primary: #0f62f9;
+$primaryDark: #0033e9;
+$secondary: #5eab47;
+$success: #86cc60;
+$warning: #e6a23c;
+$danger: #ce3c3c;
+$error: #ce3c3c;
+$info: #7accc9;
+$gray: #757575;
+$white: #fff;
+$black: #000;
+
+$font-size-base: 1rem;
+$font-size-xs: $font-size-base * 0.75;
+$font-size-sm: $font-size-base * 0.875;
+$font-size-lg: $font-size-base * 1.125;
+$font-size-xl: $font-size-base * 1.25;
+
+$h1-font-size: $font-size-base * 2.5;
+$h2-font-size: $font-size-base * 2;
+$h3-font-size: $font-size-base * 1.75;
+$h4-font-size: $font-size-base * 1.5;
+$h5-font-size: $font-size-base * 1.25;
