@@ -1,4 +1,4 @@
-# qkit-porfolio
+# VUE 3 TYPESCRIPT VITE
 
 ## Project setup
 ```
